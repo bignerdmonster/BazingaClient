@@ -11,4 +11,5 @@
   
 ##  Exigence for Development
 
- We have absolutely **NO REASON** for devleloping this. At all. This is pointless. Why are we doing this.
+ ~~We have absolutely **NO REASON** for devleloping this. At all. This is pointless. Why are we doing this.~~
+We are developing this client because we believe that our Saviour, Sheldon Cooper, should have His own Minecraft Client, as to respect His image.
