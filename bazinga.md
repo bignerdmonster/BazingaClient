@@ -16,4 +16,4 @@ We are developing this client because we believe that our Saviour, Sheldon Coope
 
 
 ## Git in VSC testing
- New Test! Bazinga!
+ New Test! hallelujah!
